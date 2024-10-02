@@ -1,0 +1,2 @@
+# secuenciaFidens
+Diagrama Secuencial
